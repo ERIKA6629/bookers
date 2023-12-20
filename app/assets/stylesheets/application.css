@@ -13,3 +13,42 @@
  *= require_tree .
  *= require_self
  */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.top{
+  margin: 33px
+  
+}
+
+.headline{
+  display: block;
+  margin: 18px 0 18px;
+  line-height: 18px;
+}
+
+.main-text{
+  margin: 33px;
+}
+
+main{
+  margin: 33px;
+}
+
+.pagetitle{
+  line-height: 18px;
+  margin: 17px 0 17px;
+}
+
+.new-data{
+  line-height: 18px;
+  margin: 16px 0 16px;
+}
+
+.form{
+  margin-bottom: 10px;
+}
