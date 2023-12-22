@@ -58,3 +58,7 @@ main{
   color: green;
   margin: 33px;
 }
+
+.error-message{
+  color: red;
+}
